@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Know-Me/static/css/main.de0c63a8.css",
+    "main.js": "/Know-Me/static/js/main.92c70963.js",
+    "static/js/787.37faa4c4.chunk.js": "/Know-Me/static/js/787.37faa4c4.chunk.js",
+    "static/media/profile.jpg": "/Know-Me/static/media/profile.e22e7713cff542667c07.jpg",
+    "static/media/about-image.png": "/Know-Me/static/media/about-image.6f1b74a0a4aec982e9a9.png",
+    "static/media/animendar.jpg": "/Know-Me/static/media/animendar.2fe1756bc2663e3b1e54.jpg",
+    "static/media/JS-logo.jpg": "/Know-Me/static/media/JS-logo.5f97c4710377189d1217.jpg",
+    "static/media/html-icon.png": "/Know-Me/static/media/html-icon.75490ac212ccd8b707ca.png",
+    "static/media/node-logo.webp": "/Know-Me/static/media/node-logo.fdc580dde0b0b7e22fbb.webp",
+    "static/media/notes.webp": "/Know-Me/static/media/notes.c291c7b288363bfa2aae.webp",
+    "static/media/android-logo.jpg": "/Know-Me/static/media/android-logo.1c65d27d2f5da4c2f41f.jpg",
+    "static/media/github-logo.jpg": "/Know-Me/static/media/github-logo.f1df4fc0958b42709c6a.jpg",
+    "index.html": "/Know-Me/index.html",
+    "main.de0c63a8.css.map": "/Know-Me/static/css/main.de0c63a8.css.map",
+    "main.92c70963.js.map": "/Know-Me/static/js/main.92c70963.js.map",
+    "787.37faa4c4.chunk.js.map": "/Know-Me/static/js/787.37faa4c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de0c63a8.css",
+    "static/js/main.92c70963.js"
+  ]
+}
